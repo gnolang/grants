@@ -56,6 +56,7 @@ We're looking to support smart contracts written in Gno that can either serve as
 **How to Apply**
 * Fork this repository.
 * Create a new `.md` file in the [`projects`](./projects) folder named after your project.
+* If your proposal contains images, create a folder named after your project to contain the `.md` file and the images.
 * Use the [template file](projects/TEMPLATE.md) to outline your proposal.
 * Submit a Pull Request (PR).
 * Email us the details at [grants@tendermint.com](mailto:grants@tendermint.com).
