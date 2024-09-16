@@ -1,16 +1,16 @@
 # Project Name
 
-- GitHub handle:
+- GitHub handle
 - Email
-- Links (Twitter, website, etc.)
+- Links (X, LinkedIn, your website, etc.)
 
 ## Project summary
 
-Here goes your project summary.
+Your project summary goes here.
 
 ### Goals and deliverables
 
-Goals of the project and its deliverables.
+Goals of your project and its deliverables.
 
 ### Impact on gno.land’s developer ecosystem
 
@@ -24,7 +24,7 @@ Timeline and milestones used to keep track of progress.
 
 Your previous contributions or work related to gno.land.
 
-## Why you and your team are well-suited for this project?
+## Why are you and your team well-suited for this project?
 
 Tell us a bit more about yourself.
 
