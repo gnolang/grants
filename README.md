@@ -1,3 +1,5 @@
+![banner.png](./banner.png)
+
 # gno.land Grants Program
 
 The gno.land grants program provides financial support to developers interested in new blockchain technology, and/or are already actively contributing to gno.land. 
@@ -10,7 +12,6 @@ You may be a good fit if at least one of these applies:
 * You’re a researcher specializing in a relevant field
 
 #### **Ways to Receive Funding**
-
 
 1. You have a specific project idea that aligns with our areas of focus.
 2. You're interested in blockchain technology and want the chance to explore it further.
@@ -54,25 +55,13 @@ We're looking to support smart contracts written in Gno that can either serve as
 
 **How to Apply**
 * Fork this repository.
-* Create a new .md file in the grants folder named after your project.
-* Use the template below to outline your proposal.
+* Create a new `.md` file in the [`projects`](./projects) folder named after your project.
+* If your proposal contains images, create a folder named after your project to contain the `.md` file and the images.
+* Use the [template file](projects/TEMPLATE.md) to outline your proposal.
 * Submit a Pull Request (PR).
-* Email us at grants@tendermint.com.
+* Email us the details at [grants@tendermint.com](mailto:grants@tendermint.com).
 
 Our team will review your application, and if it's supported by the engineering team, you’ll be invited to present it for feedback.
-
-**Project Application Template**
-* Project Name
-* GitHub handle
-* Email
-* Links (Twitter, website, etc.)
-* Project summary
-* Goals and deliverables
-* Impact on gno.land’s developer ecosystem
-* Timeline and milestones
-* Contributions or related work for gno.land (if applicable)
-* Why you and your team are well-suited for this project
-* Referrals or examples of past work
 
 ## **Don’t Have a Detailed Proposal?**
 
