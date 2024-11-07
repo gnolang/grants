@@ -25,7 +25,7 @@ We’re looking for formal, detailed project proposals including milestones, del
 ### **Example Projects**
 **Applications (Gno dApps)**
 
-We're looking to support smart contracts written in Gno that can either serve as libraries or gain widespread adoption. Games, DeFi applications, social communication tools, or coordination apps are all welcome. These apps should integrate smoothly with the existing gno.land infrastructure, promote user interaction, and encourage the adoption of gno.land services. Examples include:
+We're looking to support smart contracts written in Gno that can either serve as libraries or gain widespread adoption. Games, social communication tools, or coordination apps are all welcome. These apps should integrate smoothly with the existing gno.land infrastructure, promote user interaction, and encourage the adoption of gno.land services. Examples include:
 * Improvements to the demo/board application to make it more practical
 * Proof-of-person applications
 * Name registration contracts
