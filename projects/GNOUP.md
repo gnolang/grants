@@ -10,9 +10,9 @@ gnoup
 
 ## Project summary
 
-This project aims to create a robust, reusable, and production-ready deployment pipeline for gnoland across multiple cloud providers using Rancher, Kubernetes, and Helm. It will integrate with GitHub Actions for CI/CD and include monitoring, observability, and cloud-specific configuration for EKS, GKE, and AKS.
+This project aims to create a robust, reusable, and production-ready deployment pipeline for gno.land across multiple cloud providers using Rancher, Kubernetes, and Helm. It will integrate with GitHub Actions for CI/CD and include monitoring, observability, and cloud-specific configuration for EKS, GKE, and AKS.
 
-The goal is to enable gnoland contributors, validators, and dApp teams to easily deploy scalable testnets and clusters in real-world environments with minimal setup overhead.
+The goal is to enable gno.land contributors, validators, and dApp teams to easily deploy scalable testnets and clusters in real-world environments with minimal setup overhead.
 
 Repo: https://github.com/GoNameless/gnoup
 
@@ -22,7 +22,7 @@ Board:
 
 #### Core Goals:
 
-- Enable one-click or automated gnoland deployment to EKS, GKE, and AKS via Rancher-managed Kubernetes clusters.
+- Enable one-click or automated gno.land deployment to EKS, GKE, and AKS via Rancher-managed Kubernetes clusters.
 
 - Create Helm charts for flexible and scalable deployments.
 
@@ -61,7 +61,7 @@ This project significantly improves developer and validator experience by provid
 5. Infrastructure templates that reduce DevOps overhead for ecosystem projects
 
 
-gnoup directly with the **Infrastructure, Developer Experience, and Quality** track of the grant program and is designed to grow and evolve with the network.
+gnoup directly aligns with the **Infrastructure, Developer Experience, and Quality** track of the grant program and is designed to grow and evolve with the network.
 
 ### Timeline and milestones
 
@@ -80,7 +80,7 @@ gnoup directly with the **Infrastructure, Developer Experience, and Quality** tr
 
 ## Contributions or related work for gno.land (if applicable)
 
-1. GNOUP: https://github.com/Leon-Africa/gnoup 
+1. gnoup: https://github.com/Leon-Africa/gnoup 
 [private EC2 based deployment @zivkovicmilos has access]
 
 2. https://github.com/gnolang/gno/pull/2536 
