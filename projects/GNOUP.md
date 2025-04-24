@@ -100,4 +100,4 @@ This project combines my passion for blockchain and open-source DevOps practices
 4. https://github.com/ethereum/EIPs/pull/9405
 5. https://github.com/Leon-Africa/zkp
 6. https://github.com/Leon-Africa/auto-deploy-lotus-fullnode
-7. https://github.com/Leon-Africa/vagrant-jenkins
+7. https://github.com/Leon-Africa/avail-node-deployer
