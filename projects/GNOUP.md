@@ -81,7 +81,9 @@ gnoup directly aligns with the **Infrastructure, Developer Experience, and Quali
 ## Contributions or related work for gno.land (if applicable)
 
 1. gnoup: https://github.com/Leon-Africa/gnoup 
-[private EC2 based deployment @zivkovicmilos has access]
+[public - this version is more focused on the binary spinning up onto ec2 using a pattern for production blockchain nodes where infrastructure and configuration as code is handle soley to ec2/hyperv cloud based infra]
+
+*The grant proposal has a different approach in that it is more modular and modern utilizing  containerization with Rancher K8s etc as elaborated.*
 
 2. https://github.com/gnolang/gno/pull/2536 
 [Suggestion have been implemented at https://github.com/gnolang/gno/tree/master/misc/telemetry]
