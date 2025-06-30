@@ -1,6 +1,6 @@
 ![banner.png](./banner.png)
 
-# gno.land Grants Program
+# Gno.land Grants Program
 
 The gno.land grants program provides financial support to developers interested in new blockchain technology, and/or are already actively contributing to gno.land. 
 
