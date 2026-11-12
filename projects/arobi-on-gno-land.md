@@ -10,19 +10,19 @@ Arobi Technology Alliance, Inc. builds assurance for AI work: software that chec
 before an important action runs, and keeps evidence of what happened. This project brings Arobi's products and their
 users to gno.land in two ways:
 
-1. **Pay in GNOT.** A gno.land realm where a person pays GNOT for a named Arobi service; Arobi's services check the
-   payment and grant the service. Whisper, Arobi's private messenger, is the first service to accept GNOT.
-2. **Anchor evidence on gno.land.** A realm that records 32-byte digests of Arobi evidence records with the block
+1. **Pay in GNOT.** A gno.land realm where a person will pay GNOT for a named Arobi service; Arobi's services will
+   check the payment and grant the service. Whisper, Arobi's private messenger, will be the first service to accept GNOT.
+2. **Anchor evidence on gno.land.** A realm that will record 32-byte digests of Arobi evidence records with the block
    height, so anyone can later check that a record existed by that height on gno.land.
 
-Nothing is bridged, and no token is wrapped or minted anywhere else. Payments stay on gno.land; only the proof of a
+Nothing will be bridged, and no token wrapped or minted anywhere else. Payments stay on gno.land; only the proof of a
 payment or of an anchor is used outside it.
 
 ### Goals and deliverables
 
-The deliverables are Arobi's own work and are not released under an open-source licence. The realms are deployed on
-gno.land, where, like every realm, their source can be read on chain, and they are public services that anyone with a
-gno.land wallet can call.
+The deliverables are Arobi's own work and are not released under an open-source licence. The realms will be deployed
+on gno.land, where, like every realm, their source can be read on chain, and they will be public services that anyone
+with a gno.land wallet can call.
 
 | # | Deliverable | What it is |
 | --- | --- | --- |
